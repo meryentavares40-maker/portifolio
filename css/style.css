@@ -1,4 +1,4 @@
-* {
+ {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -11,7 +11,7 @@ html {
 body {
   font-family: Arial, Helvetica, sans-serif;
   background: #f7f7f7;
-  color: #222;
+  color: #7b7a78;
   line-height: 1.6;
 }
 
@@ -85,7 +85,7 @@ img {
       rgba(255, 255, 255, 0.86),
       rgba(255, 255, 255, 0.65)
     ),
-    url("../img/projeto.jpg");
+      url("../img/fundo.jpeg");
 
   background-size: cover;
   background-position: center;
